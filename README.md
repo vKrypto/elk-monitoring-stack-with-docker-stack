@@ -1,0 +1,1 @@
+# elk-monitoring-stack-with-docker-stack
